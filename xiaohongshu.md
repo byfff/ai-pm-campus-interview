@@ -1,6 +1,7 @@
 # 小红书笔记
 
-发之前把 GitHub 用户名换成你的。不要写阿加犀案例，不要装内推。
+仓库：https://github.com/byfff/ai-pm-campus-interview  
+不要写阿加犀案例，不要装内推。
 
 ---
 
@@ -32,7 +33,7 @@
 
 有学长学姐原话，仍然以他们为准。没有的话，就用公开信息和同组编制交叉验证，推断会标明，不当内幕。
 
-GitHub：ai-pm-campus-interview
+GitHub：https://github.com/byfff/ai-pm-campus-interview
 
 Cursor 里放到 ~/.cursor/skills/ 下，Agent 对话框打 `/` 选这个 skill。README 里有完整用法。
 

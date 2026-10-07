@@ -20,7 +20,7 @@ Cursor Agent Skill。痛点不是题背得少，而是 JD 空泛、不等于真�
 - macOS / Linux：`~/.cursor/skills/ai-pm-campus-interview/`
 
 ```bash
-git clone https://github.com/<你的用户名>/ai-pm-campus-interview.git
+git clone https://github.com/byfff/ai-pm-campus-interview.git
 ```
 
 把仓库文件拷进上述目录。需要：`SKILL.md`、`value-chain.md`、`sibling-jd.md`、`public-search.md`、`output-template.md`、`examples.md`。
