@@ -15,7 +15,7 @@ description: >-
 
 本 skill 是**推断**，不是内推情报。有学长学姐口述时，以其为准，并标成「人脉确认」。
 
-详细判定表见 [value-chain.md](value-chain.md)、[sibling-jd.md](sibling-jd.md)。无 JD 时的公开检索见 [public-search.md](public-search.md)。输出必须套 [output-template.md](output-template.md)。示例见 [examples.md](examples.md)。
+详细判定表见 [value-chain.md](value-chain.md)、[sibling-jd.md](sibling-jd.md)。无 JD 时的公开检索见 [public-search.md](public-search.md)。常考题（产品熟悉、套餐、大模型评估、赛道落地）见 [interview-common.md](interview-common.md)。输出必须套 [output-template.md](output-template.md)。示例见 [examples.md](examples.md)。
 
 ## 输入
 
@@ -96,9 +96,20 @@ JD 空泛时不要停：空泛本身是信号。用公司公开信息和同组�
 
 无简历则给「通用准备」+ 请用户补简历做第二轮。
 
-### 7. 输出准备方案
+### 7. 常考题落地（必做）
 
-必须落到可执行：优先序、7 天/14 天清单、口述结构、很可能的追问、不该说的话。中游用「澄清 → 落 AI → 设计 → 兜底」故事轴。
+读 [interview-common.md](interview-common.md)。在生态位结论之后，针对**这家公司**写清四块，禁止只给通用范文：
+
+1. **产品熟悉**：90 秒怎么讲他们的产品；该背的事实；Demo vs 可卖品  
+2. **产品套餐**：按他们的售卖形态给分层轴与 2～3 档（标推断）  
+3. **大模型能力评估**：该赛道该看的指标、评测集、门禁与兜底  
+4. **应用到所处赛道**：AI 落在工作流哪一步、约束、产品化、如何验证  
+
+上/中/下游侧重点必须按 interview-common 切换。
+
+### 8. 输出准备方案
+
+必须落到可执行：优先序、7 天/14 天清单、口述结构、很可能的追问、不该说的话。中游用「澄清 → 落 AI → 设计 → 兜底」故事轴。常考四题的追问并入「高概率追问」。
 
 ## 硬性规则
 

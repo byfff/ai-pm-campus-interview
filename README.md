@@ -23,7 +23,7 @@ Cursor Agent Skill。痛点不是题背得少，而是 JD 空泛、不等于真�
 git clone https://github.com/byfff/ai-pm-campus-interview.git
 ```
 
-把仓库文件拷进上述目录。需要：`SKILL.md`、`value-chain.md`、`sibling-jd.md`、`public-search.md`、`output-template.md`、`examples.md`。
+把仓库文件拷进上述目录。需要：`SKILL.md`、`value-chain.md`、`sibling-jd.md`、`public-search.md`、`interview-common.md`、`output-template.md`、`examples.md`。
 
 装好后新开 **Agent** 对话。若 `/` 里看不到，到 Cursor Settings → Rules 看 Agent Decides 是否出现该名称。
 
@@ -56,4 +56,4 @@ Agent 输入框打 `/`，选 `ai-pm-campus-interview`，再发材料。也可以
 
 ## 输出
 
-生态位与置信度；这组大概要干什么、各类岗位需求浓度；面试主形态；建议准备的内容（P0/P1、口述轴、追问、7 天安排）；公开岗位清单。
+生态位与置信度；这组大概要干什么、各类岗位需求浓度；面试主形态；**常考题落地**（产品熟悉、套餐设计、大模型评估、赛道应用）；建议准备（P0/P1、口述轴、追问、7 天安排）；公开岗位清单。
